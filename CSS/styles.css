@@ -67,10 +67,31 @@ h3{
     margin-right: 30px;
 }
 
-.design-skill{
+.linux-skill{
     width: 20%;
     float: right;
     margin-left: 30px;
+
+}
+
+.cyber-skill{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.cloud-skill{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.design-skill{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
 
 }
 
